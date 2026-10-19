@@ -1,0 +1,8 @@
+c8f070b0eeff17006659d3ae2f167a74
+
+Flask
+
+gunicorn
+
+line-bot-sdk
+
